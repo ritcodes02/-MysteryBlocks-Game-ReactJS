@@ -19,6 +19,8 @@
 
 
 
+
+
 MysteryBlocks is a fun and interactive puzzle game built with React.js, styled using Tailwind CSS, animated with Framer Motion, and powered by React Router DOM for seamless navigation. Inspired by classic block and mystery-solving games, MysteryBlocks combines smooth UI transitions with engaging gameplay mechanics.
 
 
@@ -37,6 +39,12 @@ MysteryBlocks is a fun and interactive puzzle game built with React.js, styled u
 
 
 🔧 Tech Stack
+
+
+
+
+
+
 
 
 
@@ -62,9 +70,12 @@ React Router DOM – Multi-page routing with a smooth user experience
 
 
 
-
-
 ✨ Features
+
+
+
+
+
 
 
 
@@ -94,6 +105,17 @@ React Router DOM – Multi-page routing with a smooth user experience
 
 
 🚀 Getting Started
+
+
+
+
+
+
+
+
+
+
+
 
 
 
